@@ -1,0 +1,171 @@
+ *{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-family: 'DM Sans'
+}
+ 
+body {
+    width: 1200px;
+    background: #E5E5E5;
+    margin: auto;
+    margin-bottom: 95px;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    background: #E5E5E5;
+    left: 0;
+    top: 0;
+}
+.img-hs {
+    background-image: url(./hs.\ \(1\).svg);
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 50px;
+ 
+}
+
+.par {
+    display: flex;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 22px;
+    color: #181717;
+}
+
+.par p {
+    margin-right: 29px;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+}
+
+.block{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img-priv {
+   /* background-image:url(./Hello\,\ I’m\ ‘your\ name’..svg);*/
+    width: 360px;
+    height: 135px;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 20px;
+    color: #181717;
+    margin-top: 145px;
+}
+
+.img-type {
+    /*background-image:url(./TypeScript\ Developer..svg);*/
+    width: 580px;
+    height: 116px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 32px;
+    color: #606060;
+}
+
+.st {
+    background-image:url(./st\ \(2\).svg);
+    width: 33px;
+    height: 39px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.first {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.info p {
+    
+font-family: 'DM Sans';
+font-weight: 400;
+font-size: 22px;
+color: #606060;
+}
+.info-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 130px;
+}
+
+.img-prjject {
+    background: #606060;
+    width: 640px;
+    height: 360px;
+}
+
+
+
+
+.line {
+    margin-top: 70px;
+    border: 1.5px solid #181717;
+}
+
+section {
+    margin-top: 70px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer p {
+    margin-right: 29px;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+}
+
+.box-1 p {
+    Font family: DM Sans;
+    width: 400px;
+    margin-left: 40px;
+    font: 400 24px 'DM Sans';
+     color: #2429AF;
+
+}

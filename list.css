@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-family: 'DM Sans'
+}
+ 
+body {
+    width: 1200px;
+    background: #E5E5E5;
+    margin: auto;
+    margin-bottom: 95px;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    background: #E5E5E5;
+    left: 0;
+    top: 0;
+}
+
+
+.img-hs {
+    background-image: url(./hs.\ \(1\).svg);
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 50px;
+ 
+}
+
+.par {
+    display: flex;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 22px;
+    color: #181717;
+}
+
+.par p {
+    margin-right: 29px;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+}
+
+.about {
+    margin-top: 70px;
+}
+
+
+
+.flex-about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ /* align-items: center;*/
+  
+}
+.img-about {
+   background: #606060;
+   /* background-image:url(./Thumbnail.svg);*/
+    width: 457px;
+    height: 405px;
+}
+
+.info-about h1 {
+    font: 500 60px 'DM Sans';
+    #181717
+}
+
+.info-about {
+    width: 570px;
+}
+
+.info-about p {
+    font: 400 24px 'DM Sans';
+    #606060
+    margin-top: 30px;
+}
+
+.about-skils-header {
+    font: 500 22px 'DM Sans';
+    color: #181717;
+    text-decoration-line: underline;
+}
+
+.about-biock-skils {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-skils-mor-info {
+    width: 400px;
+    margin-left: 40px;
+    font: 400 24px 'DM Sans';
+    color: #181717;
+}
+
+
+.about-skils {
+    display: flex;
+}
+
+.line {
+    margin-top: 70px;
+    border: 1.5px solid #181717;
+}
+
+
+.about-biock-skils-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.questions p {
+    width: 347px;
+    height: 71px;
+    margin-top: 40px;
+    font: 400 32px 'DM Sans';
+    color: #181717;
+}
+
+.email {
+    width: 170px;
+    height: 37px;
+    margin-right: 431px;
+    margin-top: 40px;
+    font: 400 32px 'DM Sans';
+    color: #181717;
+}
+
+footer {
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer p {
+    margin-right: 29px;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+}
+
+.box-1 p {
+    Font family: DM Sans;
+     color: #2429AF;
+}
+
+
+
+
+
+
+
